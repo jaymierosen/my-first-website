@@ -1,0 +1,75 @@
+/*these styles will change the page background and set the general styles of the web page */
+
+body{
+	background: lightgrey; 
+	font-family: calibri;
+	color: darkslategrey;
+}
+/*these properities will be applied to a paragraph only if it comes after a h1 heading*/ 
+h1 {
+	font-size: 100px;
+	color: darkslategrey;
+	font-weight: normal;
+	text-transform: uppercase;
+	text-align:center;
+	letter-spacing: 2px;
+}
+
+h2 {
+	font-size: 70px;
+	color: darkslategrey;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+h2 {
+
+text-align:center
+
+} 
+
+
+p {
+	font-size: 60px;
+	line-height: 25px
+}
+
+p { 
+
+word-spacing:10px;
+
+} 
+
+p { 
+
+letter-spacing: 3px;
+}
+
+p {
+text-align: center;
+}
+
+
+
+
+
+/*Centering and column*/
+div {
+	width: 600px;
+	margin: auto;
+	border: 2px dashed grey;
+	padding: 20px; 
+}
+
+img {
+	border: 2px solid grey;
+	padding: 2px
+	background: white;
+	float: right;
+	margin: 0 0 0 15px; /*clockwise*/
+}
+
+p + p + p img {
+	float: left;
+	margin: 0 15px 0 0; 
+}

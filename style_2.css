@@ -1,0 +1,49 @@
+/*these styles will change the page background and set the general styles of the web page */
+
+body{
+	background: white; 
+	font-family: calibri;
+	color: firebrick;
+}
+/*these properities will be applied to a paragraph only if it comes after a h1 heading*/ 
+h1 {
+	font-size: 100px;
+	color: firebrick;
+	font-weight: normal;
+	text-transform: uppercase;
+	text-align:center;
+	letter-spacing: 5px;
+}
+
+
+
+p + h3 {
+	font-size: 45px;
+	text-align: center;
+	text-align: justify;
+}
+
+p {
+	font-size: 30px;
+	text-align: center;
+	text-align: justify;
+	
+{
+
+p + 13 {
+	text-align: center;
+}
+
+/*Centering and column*/
+div {
+	width: 200px;
+	margin: auto;
+	border: 2px dashed grey;
+	padding: 20px; 
+}
+
+img {
+	float: right;
+	margin: 0 0 0 15px; /*clockwise*/
+}
+

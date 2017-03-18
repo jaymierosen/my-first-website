@@ -1,0 +1,42 @@
+<!doctype html>
+
+<html>
+    
+    <head>    
+    
+        <title>  Website Analyses- Jaymie Rosen </title>
+
+<link rel="stylesheet" href="style.css" />
+        
+        </head>
+        
+        <body>   
+
+            <h1> Website Analyses </h1>
+    
+            <h2> <p> By: Jaymie Rosen </p>
+                
+                <p> MFD205 </p>
+                
+                <p> Assigned by: Mark Reale </p>
+                
+                </h2>
+                
+                <hr />
+
+                <h2><ul>
+                    
+                    <li><a href="pinterest.html"> Pinterest </a></li>
+                    <li><a href="instagram.html"> Instagram </a></li>
+
+                </ul></h2>
+
+<hr />
+
+
+        </body>
+    
+    
+    
+    
+</html>

@@ -1,0 +1,62 @@
+<!doctype html>
+
+<html>
+    
+    <head>    
+    
+        <title>  Project 1- Website Analysis- Jaymie Rosen </title>
+
+<link rel="stylesheet" href="style_3.css" />
+        
+        </head>
+        
+        <body>   
+
+            <h1> Instagram </h1>
+    
+            <hr />
+
+<img src="instagram.jpg" /> <img src="instagram_2.jpg" />
+
+<p><h3> What is Instagram? </h3></p>
+
+<p> Instagram is a free mobile app for iPhone and Android users. This app allows users to take a photo, choose a filter for the photo, and then share it on social media websites, such as Facebook and Twitter, as well as on the Instagram blog. Once the user has downloaded the app from a mobile device, they make a profile and username. When the account is set up, the user can begin to take photos. The user simply presses the camera button and takes a photo. After that, the user can choose from sixteen different filters, each one with a distinct quality and effect. When the preferred filter has been chosen, the user can write a caption, and share it on Twitter, Facebook, Tumblr, Flickr or Foursquare. Users can also use a Geotag, which provides a location for where the photo was taken. The user finalizes these decisions, and the photo is posted on their profile page. Users can find friends to follow through social media websites. The homepage in Instagram consists of photos the user took, as well photos of the people they follow. </p>
+
+
+<p><h3> Functionality</h3></p>
+
+<p> The function or purpose behind Instagram is to take an instant photo with your camera, which is similar to that of a Polaroid camera. The instantaneous effect of Polaroid cameras captured a moment that was not staged or posed; the quality was not perfect, but it has a vintage effect that one could look back on and reminisce. Instagram was created as the replacement for the Polariod camera, as the cameras were being discontinued. Since most people use their phones as cameras, the ease of taking a Polaroid-like photo on a mobile device seems more practical for the 21st century. Instagram is essentially a platform for sharing not only photos with friends, but memories. </p>
+
+
+<p><h3> How is it effective? </h3></p>
+
+<p> Instagram is a very simple way of sharing instantaneous photos with friends. It is quick and easy. It eliminates any need to carry around a camera.  </p>
+
+
+<p><h3> How are users engaged? </h3></p>
+
+<p> Users are engaged by Instagram because of cool effects that can be created to their photos. Instagram easily connects to a number of social media websites, so friends can see a user’s photo from many platforms. It is another form of connecting with friends. Many celebrities are using social media as a way to connect with their fans. Users can follow celebrities on Instagram to feel as though they are connected to their favourite actor or singer.  </p>
+
+
+<p><h3> Design </h3></p>
+
+<p> Instagram’s design is very clean and simple. There is a blue bar at the top with the title ‘Instagram’ on it. The background is white. As the user scrolls down the homepage, photos appear with the user’s profile photo on the left hand corner along with the user’s profile name. Underneath the photo, users can like a photo or comment on a photo. There is a bar at the bottom of the screen which has a home, favourites, camera, likes and profile button.  </p>
+
+
+<p><h3> Improvements </h3></p>
+
+<p>Instagram is a fairly well designed app, and is extremely fun and easy to use. While the app is available for iPhone and Android users only, BlackBerry users would surely enjoy having an Instagram app as well.  </p>
+
+
+<hr />
+
+<p><a href="index.html">Home Page</a></p>
+<p><a href="pinterest.html">Pinterest</a></p>
+
+
+        </body>
+    
+    
+    
+    
+</html>
